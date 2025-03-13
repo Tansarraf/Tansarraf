@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋🏻 Hello, I'm Tanishk Sarraf<br>👩🏻‍🎓 I’m a student at MAIT, Delhi<br>🌱 I’m currently learning Data Structures in Java as well as Deep Learning<br>
+👋🏻 Hello, I'm Tanishk Sarraf<br>👩🏻‍🎓 I’m a student at MAIT, Delhi<br>🌱 I’m currently learning Data Structures in Java <br>
 
 
 ## 🌐 Socials:
