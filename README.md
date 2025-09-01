@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-👩🏻‍🎓 I’m a student at MAIT, Delhi<br>🌱 I’m currently learning Data Structures in Java
+👩🏻‍🎓 I’m a student at MAIT, Delhi<br>🌱 I’m currently learning Data Structures in Java<br> 🌅I'm an aspring Fullstack Developer
 
 
 # 💻 Tech Stack:
